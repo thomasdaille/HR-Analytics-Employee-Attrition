@@ -1,6 +1,8 @@
 # HR Analytics Employee Attrition & Performance
 
-The aim of this project is to provide an example machine learning algorithme in Python who try to predict the departure of an employee. The aim is to be alerted to at-risk profiles so that action can be taken to retain them before it is too late.
+The aim of this project is to provide an example machine learning algorithme in Python who try to predict the departure of an employee. The aim is to be alerted to at-risk profiles so that action can be taken to retain them before it is too late. 
+
+This work was carried out in the context of a Master's thesis at the University of Paris Dauphine.
 
 # About the dataset
 
